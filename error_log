@@ -1,0 +1,1 @@
+[10-Feb-2022 03:12:50 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/vyrosoft/dashboard.zipkash.com/app/Controllers/Api.php on line 3
